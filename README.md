@@ -10,7 +10,7 @@ Then :
 
 Verify with `pip list`: 
 
-yo should have :
+you should have :
 
 qiskit
 qistkit-aer
