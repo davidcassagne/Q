@@ -50,6 +50,14 @@ Install Python 3.5 or better from python.org
 
 `$ python3 -m pip install qiskit.aer`
 
+in case of trouble, use pip uninstall command and restart.
+still in trouble : try miniconda. 
+
+conda activate <my_env>
+pip install there
+jupyter notebook from there
+
+
 
 `$ python3 -m pip install jupyter`
 
