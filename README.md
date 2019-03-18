@@ -16,7 +16,7 @@ qiskit
 qistkit-aer
 qiskit-terra 
 
-If you need qiskit-aque, you have to pip it separately : 
+If you need qiskit-aqua, you have to pip it separately : 
 
 `pip install qiskit-aqua`
 
@@ -34,10 +34,8 @@ on the python command line verify that import `qiskit` runs ok
 
 `$ python3 -m pip install jupyter`
 
-
-then: 
+then:
 `$jupyter notebook`
-
 
 
 Install Python 3.5 or better from python.org 
@@ -56,7 +54,6 @@ still in trouble : try miniconda.
 conda activate <my_env>
 pip install there
 jupyter notebook from there
-
 
 
 `$ python3 -m pip install jupyter`
